@@ -14,7 +14,7 @@
     1. Clone the repo
         ```bash
         git clone https://github.com/shivkumars005/CineHeist.git
-        cd MoviesRecommend
+        cd CineHeist
         ```
 
     2. Install dependencies
@@ -37,8 +37,9 @@
 # Preview
     > Launch the app and see an interactive UI with movie recommendations.
  
-Check it out 👉 [GitHub Repo](https://github.com/shivkumars005/cineheist)
+Check it out 👉 [Live at](https://cineheist.streamlit.app/)
 
 # Contact me:
-    LinkedIn : https://www.linkedin.com/in/shivakumarsouta
-    Email : shivakumarsouta18@gmail.com
+    [LinkedIn](https://www.linkedin.com/in/shivakumarsouta)
+    [Email](shivakumarsouta18@gmail.com)
+    [Portfolio](https://shivakumarsouta-portfolio.vercel.app)
