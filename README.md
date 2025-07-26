@@ -13,7 +13,7 @@
 # How to Run
     1. Clone the repo
         ```bash
-        git clone https://github.com/shivkumars005/CineHeist.git
+        git clone https://github.com/shivakumarsouta/CineHeist.git
         cd CineHeist
         ```
 

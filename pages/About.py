@@ -17,5 +17,5 @@ st.markdown("""
     - Built with ❤️ using Python and Streamlit.
 
     ### Links
-    - [GitHub Repository](https://github.com/shivkumars005/cineheist)
+    - [GitHub Repository](https://github.com/shivakumarsouta/cineheist)
 """)
