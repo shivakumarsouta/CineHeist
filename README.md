@@ -26,7 +26,6 @@ Describe a story you want to watch, and CineHeist uses semantic similarity to re
 * **NumPy:** Numerical operations and embedding arrays.
 * **Scikit-learn:** Cosine similarity calculations.
 * **Sentence Transformers:** Semantic text embeddings using `all-MiniLM-L6-v2`.
-* **Matplotlib:** Dataset visualization.
 * **Requests:** HTTP requests to the TMDB API.
 * **python-dotenv:** Loading environment variables from `.env`.
 * **TMDB:** Source of movie and TV show metadata.
