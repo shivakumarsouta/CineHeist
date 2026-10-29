@@ -5,3 +5,20 @@ venv/
 
 # Secrets
 .env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.vscode/
+.idea/
+
+# Raw dataset cache
+data/raw/
+
+# Generated embeddings
+data/embeddings.npy
+data/embeddings.sha256
